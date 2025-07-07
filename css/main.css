@@ -2228,7 +2228,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     transform: scale(1.1);
 }
 .search-course-area {
-    background: url(../img/s-bg.jpg) center;
     background-size: cover;
 }
 .search-course-area .overlay-bg {
